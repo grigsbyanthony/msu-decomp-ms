@@ -1,4 +1,4 @@
-# Seasonal Dynamics of Decomposition Ecology
+# Seasonal Dynamics of Decomposition Ecology<a href="https://github.com/grigsbyanthony/msu-decomp-ms"><img src="assets/flylogo3.png" align="right" height="100" /></a>
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
