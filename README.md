@@ -7,7 +7,6 @@ A collection of code used in the analysis and visualization of 16S sequencing da
 
 ![Static Badge](https://img.shields.io/badge/Twitter-black?logo=X&logoColor=white&link=twitter.com%2Fdecompdork)
 ![Static Badge](https://img.shields.io/badge/%40colostate_email-darkgreen?logo=mailbox.org&logoColor=white&link=mailto%3Aanthony.grigsby%40colostate.edu)
-![Static Badge](https://img.shields.io/badge/Google_Scholar-%234285F4?logo=Google%20Scholar&logoColor=white&link=https%3A%2F%2Fwww.google.com%2Furl%3Fsa%3Dt%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dweb%26cd%3D%26cad%3Drja%26uact%3D8%26ved%3D2ahUKEwi-2Ib179WIAxWzlokEHWfFFWQQFnoECBMQAQ%26url%3Dhttps%253A%252F%252Fscholar.google.com%252Fcitations%253Fuser%253DXaCgNQ4AAAAJ%2526hl%253Den%26usg%3DAOvVaw1zudRRTJ4JgRK1G9YEL5qU%26opi%3D89978449)
 
 ## Associated publications
 - [Seasonal Dynamics of Decomposition Ecology](https://ezproxy2.library.colostate.edu/login?url=https://www.proquest.com/dissertations-theses/seasonal-dynamics-decomposition-ecology/docview/3094366274/se-2?accountid=10223)
